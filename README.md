@@ -3,10 +3,13 @@ Please note that these instructions are for setting up this app with the Fitbit 
 
 ## Prerequisites/Setup
 Install [Node.js](https://nodejs.org/en/download/)
+
 Verify that node is installed with the following command:
+
 `node --version`
 
 Download the Fitbit OS Simulator for [Windows](https://simulator-updates.fitbit.com/download/stable/win) or [macOS](https://simulator-updates.fitbit.com/download/stable/mac)
+
 After the simulator is installed and running, be sure to change the device type to **Versa 3 (atlas)**.
 
 ## Build and Install the Baymax App
